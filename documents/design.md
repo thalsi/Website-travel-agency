@@ -4,3 +4,4 @@
 - Typogrphy System
 - Home page Hero section left image design
 - Travel Search Form 
+- Popular Destinations competed
