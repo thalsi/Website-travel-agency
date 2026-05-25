@@ -6,3 +6,4 @@
 - Travel Search Form 
 - Popular Destinations competed
 - Choose Us section
+- Featured Tours
