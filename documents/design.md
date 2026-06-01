@@ -7,3 +7,4 @@
 - Popular Destinations competed
 - Choose Us section
 - Featured Tours
+- Choose us design new style card
