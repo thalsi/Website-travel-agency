@@ -8,3 +8,4 @@
 - Choose Us section
 - Featured Tours
 - Choose us design new style card
+- footer competed
